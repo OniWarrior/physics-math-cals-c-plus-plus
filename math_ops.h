@@ -12,3 +12,11 @@
 
 // * Consts for the math operations of the functions.
 const int PERCENT = 100;
+
+
+
+// * Function    -- calculateMean
+// * Description -- calculate the mean of a set of values
+double calculateMean(){
+    
+}
