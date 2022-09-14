@@ -14,7 +14,7 @@
 // * Consts for the math operations of the functions.
 const int PERCENT = 100;
 
-// * ----------------------------------------------------------
+// * ---------------------------------------------------------------------
 
 // * Function    -- calculateMean
 // * Description -- calculate the mean of a set of values
@@ -26,4 +26,12 @@ double calculateMean(){
 // * Description -- calculate the standard deviation of a data set
 double calculateStandardDev(){
 
+}
+
+
+// * Function    -- calculateBestFitLineSlope
+// * Description -- calculate the slope of the best fit line
+// * m = sigma ([x-i]-[x-ave])([y-i]-[y-ave]) / sigma ([x-i]-[x-ave]) ^ 2
+double calculateBestFitLineSlope(){
+    
 }
