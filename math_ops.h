@@ -79,6 +79,14 @@ double calculateCoeffOfDet(){
 // * lower-case sigma-sub-m-ave = standard deviation(lower-case-sigma) / (square-root(n))
 // * n represents the number of measurements.
 double calculateSEOM(){
+
+}
+
+
+// * Function    -- calculateError
+// * Description -- calculate the standard error
+// * error = square-root( [measurement-error]^2 + [SEOM]^2)
+double calculateError(){
     
 }
 
