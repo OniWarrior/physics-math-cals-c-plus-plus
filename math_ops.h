@@ -41,5 +41,13 @@ double calculateBestFitLineSlope(){
 // * Description -- calculate the coefficient of b in regression analysis
 // * b = (y-ave) - (m * [x-ave])
 double calculateB(){
-    
+
+}
+
+
+// * Function    -- calculateSigmaResSquares
+// * Description -- calculate the residual sum of squares.
+// * SS-res = sigma([y-i]-(m*x-i)-b)^2
+double calculateSigmaResSquares(){
+
 }
