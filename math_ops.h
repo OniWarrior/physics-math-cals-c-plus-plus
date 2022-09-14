@@ -101,10 +101,12 @@ double calculateMeasurementValue(){
 // * Function    -- calculatePercentDiff
 // * Description -- calculate the percentage difference between 
 // * a measurement made in an experiment and a theoretical measurement.
-// * percentage diff % = | (m-experimental) - (m-theoretical) | / (m-theoretical)
+// * percentage diff % =[ | (m-experimental) - (m-theoretical) | / (m-theoretical) ] * 100
 double calculatePercentdiff(){
-    
+
 }
+
+
 
 
 
