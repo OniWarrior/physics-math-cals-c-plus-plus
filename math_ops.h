@@ -51,3 +51,13 @@ double calculateB(){
 double calculateSigmaResSquares(){
 
 }
+
+
+// * Function    -- calculateSigmaTotalSquares
+// * Description -- calculate the total sum of squares with respect
+// * to the average value of y or SS-tot.
+// * SS-tot = sigma([y-i]-[y-ave])^2
+double calcualteSigmaTotalSquares(){
+    
+}
+
