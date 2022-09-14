@@ -58,6 +58,13 @@ double calculateSigmaResSquares(){
 // * to the average value of y or SS-tot.
 // * SS-tot = sigma([y-i]-[y-ave])^2
 double calcualteSigmaTotalSquares(){
-    
+
 }
 
+
+// * Function    -- calculateCoeffOfDet
+// * Description -- Calculate the coefficient of determination
+// * R ^ 2 = 1 - (SS-res/SS-tot)
+double calculateCoeffOfDet(){
+    
+}
