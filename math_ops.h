@@ -87,6 +87,14 @@ double calculateSEOM(){
 // * Description -- calculate the standard error
 // * error = square-root( [measurement-error]^2 + [SEOM]^2)
 double calculateError(){
+
+}
+
+
+// * Function    -- calculateMeasurementValue
+// * Description -- calculate the measurement value 
+// * measurement value = mean +- error.
+double calculateMeasurementValue(){
     
 }
 
