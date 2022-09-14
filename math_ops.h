@@ -33,5 +33,13 @@ double calculateStandardDev(){
 // * Description -- calculate the slope of the best fit line
 // * m = sigma ([x-i]-[x-ave])([y-i]-[y-ave]) / sigma ([x-i]-[x-ave]) ^ 2
 double calculateBestFitLineSlope(){
+
+}
+
+
+// * Function    -- calculateB
+// * Description -- calculate the coefficient of b in regression analysis
+// * b = (y-ave) - (m * [x-ave])
+double calculateB(){
     
 }
