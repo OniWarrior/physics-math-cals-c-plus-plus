@@ -11,3 +11,4 @@
 
 
 // * Consts for the math operations of the functions.
+const int PERCENT = 100;
